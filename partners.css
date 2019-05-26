@@ -1,0 +1,74 @@
+ul.rectangle-triangles-size li{
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+.height{
+     height: 340px;
+}
+.image-partners-left{
+    background-image: url(img/flashmo.png);
+    float: left;
+    width: 150px;
+    height: 30px;
+}
+.image-partners-left:hover{
+    background-image: url(img/flashmo_hover.png);
+}
+.image-partners-right{
+    background-image: url(img/templatemo.png);
+    float: right;
+    width: 226px;
+    height: 40px;
+}
+.image-partners-right:hover{
+    background-image: url(img/templatemo_hover.png);
+}
+.image-partners-left-bottom{
+    background-image: url(img/koflash.png);
+    width: 148px;
+    height: 31px;
+    float: left;
+    clear: both;
+}
+.image-partners-left-bottom:hover{
+    background-image: url(img/koflash_hover.png);
+}
+.image-partners-right-bottom{
+    background-image: url(img/webdesignmo.png);
+    width: 261px;
+    height: 40px;
+    float: right;
+}
+.image-partners-right-bottom:hover{
+    background-image: url(img/webdesignmo_hover.png);
+}
+.image-office-border{
+    border: 1px solid black;
+    width: 212px;
+    height: 212px;
+}
+.image-right-panel{
+    width: 40%;
+    float: right;
+}
+.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

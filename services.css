@@ -1,0 +1,23 @@
+.services-box {
+    width: 46%;
+    float: left;
+    padding: 0 2%;
+}
+.services-box h2{
+    color: #4c84c6;
+    padding-bottom: 25px;
+}
+ul.rectangle-triangles {
+    list-style-image: url(img/list.png);
+}
+ul.rectangle-triangles li{
+    padding-bottom: 10px;
+}
+.services-box-bottom-padding {
+    padding-bottom: 20px;
+}
+.services-bottom-text{
+    font-size: 12px;
+    font-style: italic;
+    color: gray;
+}
